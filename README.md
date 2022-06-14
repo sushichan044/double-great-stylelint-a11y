@@ -1,14 +1,9 @@
 # stylelint-a11y
 
-[![NPM version](http://img.shields.io/npm/v/stylelint-a11y.svg)](https://www.npmjs.org/package/stylelint-a11y)
-[![npm](https://img.shields.io/npm/dt/stylelint-a11y.svg)](http://www.npmtrends.com/stylelint-a11y)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-[![Build Status](https://travis-ci.org/YozhikM/stylelint-a11y.svg?branch=master)](https://travis-ci.org/YozhikM/stylelint-a11y)
-
 ## Installation and usage
 
 ```bash
-yarn add --dev stylelint stylelint-a11y
+npm i --save-dev stylelint stylelint-a11y
 ```
 
 Create the `.stylelintrc.json` config file (or open the existing one), add `stylelint-a11y` to the plugins array and the rules you need to the rules list. All rules from stylelint-a11y need to be namespaced with `a11y`.
