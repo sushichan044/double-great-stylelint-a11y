@@ -4,7 +4,7 @@
   "description": "Plugin for stylelint with a11y rules",
   "main": "dist/index.js",
   "repository": "https://github.com/double-great/stylelint-a11y.git",
-  "author": "Stanislav <botev.st@gmail.com>",
+  "author": "@double-great",
   "license": "MIT",
   "keywords": [
     "stylelint",
