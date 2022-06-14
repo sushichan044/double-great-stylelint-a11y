@@ -21,13 +21,15 @@ body[link] {
 ```
 
 ```css
-a, img[datasrc] {
+a,
+img[datasrc] {
   color: pink;
 }
 ```
 
 ```css
-img[align], a[name] {
+img[align],
+a[name] {
   color: pink;
 }
 ```
