@@ -2,7 +2,10 @@
 .husky/
 .vscode/
 .eslintignore
-.eslintrc.js
+.eslintrc.cjs
 .github/
+babel.config.json
 jest.config.js
 jest.setup.js
+src
+**/__tests__/*
