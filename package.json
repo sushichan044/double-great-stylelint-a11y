@@ -1,6 +1,6 @@
 {
   "name": "@double-great/stylelint-a11y",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Plugin for stylelint with a11y rules",
   "main": "dist/index.js",
   "type": "module",
