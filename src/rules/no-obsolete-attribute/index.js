@@ -1,4 +1,4 @@
-import isStandardSyntaxRule from 'stylelint/lib/utils/isStandardSyntaxAtRule.mjs';
+import isStandardSyntaxRule from 'stylelint/lib/utils/isStandardSyntaxRule.mjs';
 import { obsoleteAttributes } from './obsoleteAttributes.js';
 import stylelint from 'stylelint';
 const {

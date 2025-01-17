@@ -1,4 +1,4 @@
-import isStandardSyntaxRule from 'stylelint/lib/utils/isStandardSyntaxAtRule.mjs';
+import isStandardSyntaxRule from 'stylelint/lib/utils/isStandardSyntaxRule.mjs';
 import stylelint from 'stylelint';
 const {
   utils: { report, ruleMessages, validateOptions },
